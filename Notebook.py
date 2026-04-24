@@ -76,4 +76,3 @@ while True:
                 del notes[i]
     write_note(notes)
 
-\
